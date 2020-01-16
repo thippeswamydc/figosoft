@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80675" started-at="2020-01-16T01:07:59Z" finished-at="2020-01-16T01:09:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80675" started-at="2020-01-16T01:07:59Z" finished-at="2020-01-16T01:09:20Z">
+      <class name="com.assignment.testcases.Testcases">
+        <test-method status="PASS" signature="Assignment2()[pri:2, instance:com.assignment.testcases.Testcases@9629756]" name="Assignment2" duration-ms="80598" started-at="2020-01-16T06:37:59Z" description="Assigment2 Tripadvisor" finished-at="2020-01-16T06:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assignment2 -->
+      </class> <!-- com.assignment.testcases.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
